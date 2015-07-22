@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+iosLaunchConfigurationAttributes/ATTR_MINIFY=true
+iosLaunchConfigurationAttributes/ATTR_PROJECT_NAME=Accelerometer
+iosLaunchConfigurationAttributes/ATTR_UPLOAD_DEBUG_SYMBOLS=false
+iosLaunchConfigurationAttributes/appid=com.yi.setcom.accelerometer
+iosLaunchConfigurationAttributes/certificate=Yi Wu (S6772M66XZ)
+iosLaunchConfigurationAttributes/keychain=
+iosLaunchConfigurationAttributes/sdk_version=8.4
+iosLaunchConfigurationAttributes/uuid=54e182c1-68d0-4055-a097-14506629058f

@@ -1,2 +1,2 @@
 # Accelerometer
-add some thing
+Titanium project
